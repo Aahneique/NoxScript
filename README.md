@@ -15,7 +15,7 @@ NoxScript operates on a strict zero-trust basis. It doesn't just toggle your con
 NoxScript is designed as a standalone, single-file utility. You can pull it directly from this repository, place it in your local binaries, and make it executable in one command:
 
 ```bash
-sudo curl -sSL [https://raw.githubusercontent.com/noxscript/noxscript/main/noxscript.py](https://raw.githubusercontent.com/noxscript/noxscript/main/noxscript.py) -o /usr/local/bin/noxscript && sudo chmod +x /usr/local/bin/noxscript
+sudo curl -sSL [https://raw.githubusercontent.com/Aahneique/NoxScript/main/noxscript.py](https://raw.githubusercontent.com/Aahneique/NoxScript/main/noxscript.py) -o /usr/local/bin/noxscript && sudo chmod +x /usr/local/bin/noxscript
 ```
 
 Once installed, you can run sudo noxscript from anywhere in your terminal.
